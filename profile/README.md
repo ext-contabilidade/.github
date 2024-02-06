@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://extcontabilidade.com.br/" target="_blank" rel="noopener noreferrer">
-    <img width="160" height="160" src="https://dev.extcontabilidade.com.br/pwa-512x512.png" alt="Ext logo">
+    <img width="160" height="160" src="https://extcontabilidade.com.br/pwa-512x512.png" alt="Ext logo">
   </a>
 </p>
 
